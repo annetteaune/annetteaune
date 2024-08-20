@@ -1,11 +1,11 @@
 
-# Hi! 👋
+###Hello :)
 
 
 
 ![<annetteaune>'s Stats](https://github-readme-stats.vercel.app/api?username=annetteaune&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
