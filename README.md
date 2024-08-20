@@ -1,6 +1,17 @@
-## Hi there 👋
+
+# Hi! 👋
+
+
+
+![<annetteaune>'s Stats](https://github-readme-stats.vercel.app/api?username=<annetteaune>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+
+
+
 
 <!--
+
 **annetteaune/annetteaune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
