@@ -1,13 +1,15 @@
 
 
-
+### :wave::blush:
 
 
 ![<annetteaune>'s Stats](https://github-readme-stats.vercel.app/api?username=annetteaune&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+## 
 <p align="center">
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,python,react" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,python,react,nextjs" />
   </a>
 </p>
 
