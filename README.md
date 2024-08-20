@@ -1,11 +1,16 @@
 
-###Hello :)
+
 
 
 
 ![<annetteaune>'s Stats](https://github-readme-stats.vercel.app/api?username=annetteaune&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,java,python,react)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,python,react" />
+  </a>
+</p>
+
 
 
 
