@@ -1,14 +1,17 @@
 
+<h1 align="center">
+Hi! :wave::blush:
+</h1>
 
-### :wave::blush:
 
 
-![<annetteaune>'s Stats](https://github-readme-stats.vercel.app/api?username=annetteaune&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## 
 <p align="center">
-  
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-peach-gamma-70.vercel.app/api/top-langs/?username=annetteaune&hide_progress=false&layout=compact&langs_count=8&theme=midnight-purple" />
+  </a>
+</p>
+  <p align="center">
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,python,react,nextjs" />
   </a>
 </p>
@@ -19,7 +22,8 @@
 
 
 <!--
-
+![Top Langs](https://github-readme-stats-peach-gamma-70.vercel.app/api/top-langs/?username=annetteaune&hide_progress=false&layout=compact&langs_count=8&theme=midnight-purple)
+![GitHub stats](https://github-readme-stats-peach-gamma-70.vercel.app/api?username=annetteaune&show_icons=true&theme=transparent)
 **annetteaune/annetteaune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
