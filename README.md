@@ -12,7 +12,7 @@ Hi! :wave::blush:
 </p>
   <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,python,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,python,react" />
   </a>
 </p>
 
