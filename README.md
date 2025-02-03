@@ -1,39 +1,34 @@
 
-<h1 align="center">
-Hi! :wave::blush:
-</h1>
+<h1 align="center">Hi! :wave: I'm Annette</h1>
 
 
 
 <p align="center">
+  🎓 Studying Information Systems at HIOF | 💻 Specializing in web & cybersecurity<br>
+  🔭 Working on bachelors thesis  | 🌱 Currently learning PHP 
+</p>
+
+<div align="center">
+  <!-- Languages card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-peach-gamma-70.vercel.app/api/top-langs/?username=annetteaune&hide_progress=false&layout=compact&langs_count=8&theme=midnight-purple" />
+    <img height=200 src="https://github-readme-stats-peach-gamma-70.vercel.app/api/top-langs/?username=annetteaune&layout=compact&langs_count=8&theme=midnight-purple" />
+  </a>
+</div>
+
+<h3 align="center">Technologies</h3>
+<p align="center">
+  <!-- Frontend -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" />
+  </a>
+  <br>
+  <!-- Backend & Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,nodejs,mysql,sass,tailwind&perline=6" />
   </a>
 </p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,python,react" />
-  </a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/annette-liv-aune/">LinkedIn</a> •
+  <a href="https://annetteaune.vercel.app/">Portfolio</a>
 </p>
-
-
-
-
-
-
-<!--
-![Top Langs](https://github-readme-stats-peach-gamma-70.vercel.app/api/top-langs/?username=annetteaune&hide_progress=false&layout=compact&langs_count=8&theme=midnight-purple)
-![GitHub stats](https://github-readme-stats-peach-gamma-70.vercel.app/api?username=annetteaune&show_icons=true&theme=transparent)
-**annetteaune/annetteaune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
