@@ -17,14 +17,16 @@
 
 <h3 align="center">Technologies</h3>
 <p align="center">
-  <!-- Frontend -->
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind" />
+  </a>  <br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
   </a>
   <br>
-  <!-- Backend & Tools -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,nodejs,mysql,sass,tailwind&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,python,nodejs,mysql" />
   </a>
 </p>
 
