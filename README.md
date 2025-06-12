@@ -4,8 +4,10 @@
 
 
 <p align="center">
-  🎓 Studying Information Systems at HIOF | 💻 Specializing in web & cybersecurity<br>
-  🔭 Working on bachelors thesis  | 🌱 Currently learning PHP 
+  🎓 Bachelor's in Information Systems with specialization in web & cybersecurity, HIOF<br>
+  💻 Aspiring fullstack developer with a passion for frontend<br>
+  🌱 Currently expanding my skillset and building fun projects!
+
 </p>
 
 <div align="center">
