@@ -1,12 +1,11 @@
 
-<h1 align="center">Hi! :wave: I'm Annette</h1>
-
-
+<h2 align="center">Hi! I'm Annette</h2>
 
 <p align="center">
-  🎓 Bachelor's in Information Systems with specialization in web & cybersecurity, HIOF<br>
-  💻 Aspiring fullstack developer with a passion for frontend<br>
-  🌱 Currently expanding my skillset and building fun projects!
+   Frontend Developer & UX Designer by day,<br>
+   game developer by night 👩‍💻
+
+ 
 
 </p>
 
@@ -24,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,less" />
   </a>  <br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs" />
   </a>
   <br>
   <a href="https://skillicons.dev">
